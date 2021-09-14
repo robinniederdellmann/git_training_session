@@ -1,5 +1,4 @@
-# git_training_session
-
+# git training session
 Exercises to learn how to use basic git commands and concepts
 
-This is the exercise of: FILL IN YOUR NAME
+This is the exercise of: **FILL IN YOUR NAME**
