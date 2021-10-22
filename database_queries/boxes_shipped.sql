@@ -1,3 +1,3 @@
 SELECT *
-FROM fact_tables.boxes_shipped
+FROM faaaaaaaaaaaaaaaaaact_tables.boxes_shipped
 WHERE country = "DE"
